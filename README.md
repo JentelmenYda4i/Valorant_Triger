@@ -1,4 +1,4 @@
-#341234123412431234 Valorant_Triger
+#Valorant_Triger
 
 ## Setup
 
