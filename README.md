@@ -19,10 +19,6 @@
 ### Press "HOME" to hide the gui.
 ### Press "LEFT" to activate fast click (You will shoot faster).
 
-## Credits
-
-### All were coded by Robin0248
-
 ## License
 
 ### You are allowed to edit this script, but not to change the credits.
